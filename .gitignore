@@ -1,0 +1,9 @@
+# Backup folders & zip files
+20260810*/
+最穩的版本/
+*.zip
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
